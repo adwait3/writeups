@@ -1,0 +1,11 @@
+
+# level 3-4
+Logged into bandit3 with the above password and ssh
+Looked around( ls’d ) found inhere directory
+went back to overthewire, to check if i was missing something
+Googled up how to view hidden files in linux
+[Reached this - ](https://devconnected.com/how-to-show-hidden-files-on-linux/)
+Got a command to use "-a" option for all
+did ls -a 
+saw .hidden file
+opened and got password. -- 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
