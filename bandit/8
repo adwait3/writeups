@@ -1,0 +1,5 @@
+# level 7-8
+we know that the data is in file data.txt and next to the word millionth so we just have to find the word to find the password.So we use the grep command  which prints the entire line containing the word to find the word millionth as :
+-cat data.txt | grep millionth
+which gives the password:
+-TESKZC0XvTetK0S9xNwm25STk5iWrBvP
