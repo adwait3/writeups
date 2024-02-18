@@ -1,0 +1,5 @@
+# level 6-7
+we know that the password stored for the next level is on the server and user is bandit7 p[art of group bandit6 and the size. so we use the find command to quicken the process as 
+-find / -user bandit7 -group bandit6 -size33c
+now we cat the file which gives us :
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
