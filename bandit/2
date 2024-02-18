@@ -1,0 +1,16 @@
+# level 1-2
+Logged out of bandit0 with exit
+Relogged into bandit1 using ssh the same way, but changed the user to bandit1 and pasted the
+password in(NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL) when prompted.
+Listed the files inside using ls 
+Used cat - but it wasn’t executing and kept blanking on to the next line.
+Then I reached
+[this](https://www.cs.ait.ac.th/~on/O/oreilly/unix/upt/ch23_14.htm#:~:text=That's%20a%20perfectly%2
+0legal%20filename,to%20type%20a%20command%20option).
+From the google search for dashed filenames in overthewire’s helpful reading material thing.
+and realised that u need to use’ ./ ‘ in front of filenames starting with ‘ - ‘ because
+otherwise linux sees the thing ur typing in as a command. ( many linux commands start with ‘ - ‘
+as i later came across them, like the -p for port that u use on ssh )
+Then used cat and got the password
+- rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+## level 1-2 complete
