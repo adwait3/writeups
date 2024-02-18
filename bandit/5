@@ -1,0 +1,8 @@
+# level 4-5
+read the overwire tip
+It says the file is the only human readable one, and they had a tip on in case ur terminal messed
+up. Figured the file i need would be a text and had to watch out for binary files. Sure enough,
+when I logged in and ls cd’d I saw these inthere :
+I figured cat’ing each file would be stressful, so I looked up linux command to check filetype.
+Then used file to check each one’s filetype and found that file7 is not binary Cat’d 007 and got
+the password. lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
