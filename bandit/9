@@ -1,0 +1,5 @@
+# level 8-9
+we know that the password is in data file and is the only line of text that does not repeats itself. so we can find it by finding the only unique line of text. So we use the uniq -u command but we cannot find unique just by  that as the fline neeeds to be sorted first for uniq to work so we write :
+-cat data.txt | sort | uniq -u
+which gives us the password:
+-EN632PlfYiZbn3PhVK3XOGSlNInNE00t
