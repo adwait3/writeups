@@ -1,0 +1,4 @@
+# level 5-6
+we were hinted that the password is inside inhere. so we first use ls command . after foind cd inhere to get inside inhere we use ls again 
+now we use the find command as find . -size 1033c(c is used for bytes) to get the file with the specified size. now we cat the file maybehere07/.file2 to get the password:
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
